@@ -1,0 +1,40 @@
+h2 {
+  font-weight: 500;
+}
+
+h3 {
+  color: rgba(228, 155, 20, 0.842);
+}
+
+h4 {
+  font-weight: 200;
+  color: gray;
+}
+
+p {
+  font-weight: 800;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+header {
+  background-color: #f1f1f1;
+  padding: 20px;
+}
+
+img {
+  height: 500px;
+}
+
+.inner-box {
+  border: 1px solid gray;
+}
